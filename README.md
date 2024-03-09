@@ -1,3 +1,3 @@
-#1 Aixo es una prova
+# Aixo es una prova
 
 a veure que tal 
